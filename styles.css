@@ -100,3 +100,34 @@ body {
 .news-title a:hover {    
     color: rgba(0, 0, 0, 0.6);
 }
+
+#about {
+    display: flex;
+}
+
+.about-img {
+    width: 95%;
+    border-radius: 10px;
+}
+
+#about-texto {
+    border: black 1px solid;
+    border-radius: 10px;
+    background-color:  #232d8a;
+}
+
+#about-texto p {
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+
+#linkedin {
+    margin-top: 20px;
+}
+
+.linkedin-img {
+    width: 4%;
+    border-radius: 10px;
+}
